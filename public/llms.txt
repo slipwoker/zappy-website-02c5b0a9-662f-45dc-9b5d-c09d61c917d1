@@ -1,0 +1,85 @@
+# RobinhoPcs - רובינו מחשבים — Generative Engine Optimization Map
+
+> RobinhoPcs is a professional computer cleaning service focused on desktop PCs, offering basic and thorough dust-removal treatments to improve airflow, reduce noise, and boost performance. The brand has a warm, approachable, and slightly playful personality — using fire and wind emojis to convey energy and freshness. The service emphasizes visible before/after results, gentle and safe handling, and local availability, positioning itself as a trustworthy neighborhood tech helper.
+
+---
+
+## Pages
+
+### בית
+https://robinhopcs-02c5b0a9.zappy5.app
+המחשב שלך רועש, מתחמם ואיטי? ניקוי מאבק מקצועי של RobinhoPcs משיב לו חיים תוך שעה. תוצאות לפני ואחרי שתראו בעיניים. הזמינו עכשיו!
+
+### שירותים ומחירים
+https://robinhopcs-02c5b0a9.zappy5.app/services
+בחרו בין טיפול בסיסי לטיפול מעמיק — כל חבילה כוללת הסרת אבק, שיפור זרימת אוויר והורדת חום. פתרון אמיתי למחשב שמתחמם יתר על המידה. ראו מחירים והזמינו!
+
+### אודות
+https://robinhopcs-02c5b0a9.zappy5.app/about
+RobinhoPcs נולד מאהבה אמיתית לטכנולוגיה ומחויבות לטיפול עדין ובטוח בכל מחשב. גלו מי עומד מאחורי השירות, מה מניע אותנו ולמה לקוחות חוזרים אלינו שוב ושוב.
+
+### צור קשר
+https://robinhopcs-02c5b0a9.zappy5.app/contact
+יש שאלה? רוצים לתאם ניקוי מחשב נייח מאבק בקרבת הבית? צרו קשר עכשיו ונחזור אליכם מהר. זמינים, ידידותיים ומוכנים לעזור — כי המחשב שלכם לא יכול לחכות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://robinhopcs-02c5b0a9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://robinhopcs-02c5b0a9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://robinhopcs-02c5b0a9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://robinhopcs-02c5b0a9.zappy5.app/contact
+- Endpoint: https://robinhopcs-02c5b0a9.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About RobinhoPcs - רובינו מחשבים
+RobinhoPcs is a professional computer cleaning service focused on desktop PCs, offering basic and thorough dust-removal treatments to improve airflow, reduce noise, and boost performance. The brand has a warm, approachable, and slightly playful personality — using fire and wind emojis to convey energy and freshness. The service emphasizes visible before/after results, gentle and safe handling, and local availability, positioning itself as a trustworthy neighborhood tech helper.
+
+## Services/Products
+- ניקוי בסיסי – 100₪
+- ניקוי יסודי – 130₪
+- ניקוי אבק מהמארז והמאווררים
+- שיפור זרימת האוויר
+
+## Target Audience
+- בעלי מחשבים נייחים שסובלים מחימום יתר, רעש או ביצועים איטיים
+- בעלי מחשבים נייחים עם בעיות
+- מקצועני טכנולוגיה
+- חובבי גיימינג
+
+## Industry
+שירותי מחשבים וטכנולוגיה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://robinhopcs-02c5b0a9.zappy5.app/sitemap.xml
+- Robots: https://robinhopcs-02c5b0a9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://robinhopcs-02c5b0a9.zappy5.app/llms-full.txt
